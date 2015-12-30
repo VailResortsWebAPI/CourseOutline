@@ -1,4 +1,4 @@
-**Accelebrate Web API Training Outline**
+**Accelebrate's Microsoft ASP.NET Web API Training Outline**
 
 -   Introduction to ASP.NET Web API
 
